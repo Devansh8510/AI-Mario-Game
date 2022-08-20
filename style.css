@@ -1,0 +1,54 @@
+body{
+    background-image:url("https://images2.alphacoders.com/103/thumb-1920-10370.png") ;
+    background-position: center;
+    background-size: cover;
+}
+
+#div1{
+    border-style: double;
+    border-width: 3px;
+    border-color: rgb(255, 0, 93);
+    text-align: left;
+    padding:6px;
+    margin:5px;
+}
+#div1 h1{
+    display: inline;
+}
+#button1{
+    float: right;
+    font-size: large;
+    color: rgb(60, 255, 0);
+    border-width: 4px;
+    border-style: double;
+    border-color: yellow;
+}
+#img1{
+    width:100%;
+}
+#button2{
+    font-size: large;
+    color: rgb(75, 251, 110);
+    border-width: 4px;
+    border-style: double;
+    border-color: yellow; 
+    width: 100px;
+    margin-top: 10px;
+}
+#Status{
+    font-size: large;
+    color: rgb(75, 251, 110);
+    border-width: 4px;
+    border-style: double;
+    border-color: yellow; 
+    width:80%;
+    background-color: blueviolet;
+    padding:5px;
+}
+
+video{
+ background-image: url("game_console.png");
+ background-size: cover;
+ background-position: center;
+ padding: 20px;
+}
